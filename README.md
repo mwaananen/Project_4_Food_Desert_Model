@@ -1,5 +1,8 @@
 # Project_4_Food_Desert_Model
-+ @mwaananen
++ Mark R. Waananen
++ Crystal Rosenberg
++ Joanna DeLaune
++ Mike Wellnitz
 
 ## Research Question
 Despite considering multiple topics to build our model around, including personal beverage choices, sports analytics, diagnostic medical data, air quality data, and other weather, or natural disaster data, we elected to build out a model around census data that specifcally concerns food accessability. As a group we agreed that an easily accessible, single source dataset, would offer the simplest route to quickly building a model. You can find the dataset we chose at [USDA Economic Research Service](https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/) site.
