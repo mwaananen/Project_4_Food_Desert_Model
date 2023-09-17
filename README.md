@@ -3,7 +3,7 @@
 ## Research Question
 Despite considering multiple topics to build our model around, including personal beverage choices, sports analytics, diagnostic medical data, air quality data, and other weather, or natural disaster data, we elected to build out a model around census data that specifcally concerns food accessability. As a group we agreed that an easily accessible, single source dataset, would offer the simplest route to quickly building a model. 
 
-__Can we create a model using census tract data that could be used to predict food deserts in Minnesota?__
+_Can we create a model using census tract data that could be used to predict food deserts in Minnesota?_
 
 ## Creating the Model
 Once the dataset and all its data points were understood and determined to be of value to building the model. Some of our group began cleaning and filtering the data. These same group memebers took it upon themselves to make a first attempt to build an intial model. Their attempt, with feedback from an outside source (tutor), ran much accurately than anticipated. In the following session, the group agreed that some considerations regarding the data needed to be addressed. This was reinforced when we presented our current model to our supervisor (instructor Sean). In response we adjusted our data and re-ran our model anticipating some type of change. The model ran very slightly more accurately after this attempt and as a group we concluded this satisified the task requirements and that we had successfully built a model that answered our research question.
