@@ -17,3 +17,10 @@ The genesis of this group's project was whether the group was able to create an 
 
 ### Presentation link
 Presenting our model and full project using [Pitch.com](https://app.pitch.com/app/presentation/ed10af03-1362-4a29-957b-d5733d6bf8e1/fc6269ec-781e-48f8-a2d0-75a37ff92843)
+
+### References
++ USDA Dataset (see above)
++ USDA [Documentation](https://www.ers.usda.gov/data-products/food-access-research-atlas/documentation/)
++ GitLab Class Files
++ ChatGPT 
+
