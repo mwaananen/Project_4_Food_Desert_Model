@@ -1,6 +1,6 @@
 # Project_4_Food_Desert_Model
 + Mark R. Waananen
-+ Crystal Rosenberg
++ Crystal Rosenbrook
 + Joanna DeLaune
 + Mike Wellnitz
 
