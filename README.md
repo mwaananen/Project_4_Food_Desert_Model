@@ -32,7 +32,7 @@ The code concludes with a final visualization. The epochs range plot tracks the 
 The genesis of this group's project was whether the group was able to create an accurate model that could, in theory, be used by policy makers and community organizers to address the prevelance of statewide food deserts and food insecurity more broadly. We feel confident that we achieved this objective. However, we uderstand that we have not yet fully tested the bounds and capability of the model. In the future we would endeavour to test the model using different variables from the same dataset, or perhaps even entirely different datasets altogether. How the model could be deployed in the future depends directly on the limits of the model is capable of. 
 
 ### Presentation link
-Presenting our model and full project using [Pitch.com](https://app.pitch.com/app/presentation/ed10af03-1362-4a29-957b-d5733d6bf8e1/fc6269ec-781e-48f8-a2d0-75a37ff92843)
+Presenting our model and full project using [Pitch.com](https://pitch.com/public/fc6269ec-781e-48f8-a2d0-75a37ff92843)
 
 ### References
 + USDA Dataset (see above)
